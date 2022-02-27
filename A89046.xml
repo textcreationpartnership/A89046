@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>E.M. a long imprisoned malignant, his humble submission to the Covenant and Directory: with some reasons and grounds of use to settle and satisfie tender consciences. Presented in a petition to the Right Honourable the Lords assembled in Parliament, in Whitsun-week, in the year, 1647.</title>
+            <author>E. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89046</idno>
+            <idno type="STC">Wing M17</idno>
+            <idno type="STC">Thomason E393_27</idno>
+            <idno type="STC">ESTC R201607</idno>
+            <idno type="EEBO-CITATION">99862107</idno>
+            <idno type="PROQUEST">99862107</idno>
+            <idno type="VID">160315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160315)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>E.M. a long imprisoned malignant, his humble submission to the Covenant and Directory: with some reasons and grounds of use to settle and satisfie tender consciences. Presented in a petition to the Right Honourable the Lords assembled in Parliament, in Whitsun-week, in the year, 1647.</title>
+                  <author>E. M.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pagination begins on t.p. verso.</note>
+                  <note>Annotation on Thomason copy: "June 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Directory for the publique worship of God throughout the three kingdoms of England, Scotland, and Ireland --  Early works to 1800.</term>
+               <term>Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160315:1" rendition="simple:additions"/>
+            <p>
+               <hi>E. M.</hi> A long impriſoned Malignant, HIS HUMBLE SVBMISSION TO THE COVENANT and DIRECTORY: With ſome Reaſons and Grounds of uſe to ſettle and ſatifie tender Conſciences. PRESENTED IN A Petition to the Right Honoura<g ref="char:EOLhyphen"/>ble the LORDS aſſembled in Parliament, in <hi>Whitſun-week,</hi> in the Year, 1647.</p>
+            <q>
+               <bibl>Eurip.</bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160315:2"/>
+            <head>To the Right Honorable the Lords aſſembled in the high Court of Parliament, The humble Petition of <hi>E. M.</hi> Priſoner in the Right Honourable the Lord <hi>Peters</hi> Houſe in <hi>Alderſgate-ſtreet.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas your Lordſhips humble Petitio<g ref="char:EOLhyphen"/>ner (upon Remonſtrance of his caſe, that hee hath been theſe five years Priſoner to this Ho<g ref="char:EOLhyphen"/>nourable Houſe, in which time having ſuffe<g ref="char:EOLhyphen"/>red the often Plunder of his goods, to the very clothes on his backe, and Sequeſtration from any benefit of livelihood or maintenance, and being unmarried, is thereby excluded from plea to ſo much as any fifth part) did thereupon prefer his humble Petition, that your Lordſhips would be pleaſed, either to allow him ſome neceſſary ſuſtenance out of his owne Eſtate, or ſuch liberty (upon Baile to appeare before this Ho<g ref="char:EOLhyphen"/>nourable Houſe upon any terme to be limited by your Lordſhips) whereby he might be enabled to ſeeke, and find ſome end of his extreame miſerie, either by ſome poore honeſt life, or death: In anſwer to which Peti<g ref="char:EOLhyphen"/>tion, your Lordſhips were pleaſed to returne, that for maintenance out of his owne Eſtate, it was not in your Honourable power to allow it; and for liberty upon Baile, your Lordſhips were ready to grant it, but only upon condition of his taking the Covenant be<g ref="char:EOLhyphen"/>fore-hand.</p>
+            <pb n="2" facs="tcp:160315:2"/>
+            <p>Hereupon your Lordſhips humble Petitioner makes requeſt, firſt of all that he may preſent to your Honourable Remem<g ref="char:EOLhyphen"/>brance, that there was a Convocation of this Church repreſen<g ref="char:EOLhyphen"/>tative ſummoned, and called by the ſame Authority, together with this preſent Parliament now ſitting, and that the Mem<g ref="char:EOLhyphen"/>bers of that Convocation (by the Statute of 8. <hi>Hen.</hi> 6.) are to enjoy the ſame immunities (as touching their Perſons and per<g ref="char:EOLhyphen"/>ſonall Attendants) from impriſonment, that any Peeres in the Houſe of Lords, or Members of the Houſe of Commons (for themſelves and theirs) doe challenge to that effect: May it then pleaſe your Lordſhips to give your humble Petitioner leave to preſent to your honourable Notice, that himſelfe is actually at this time a Member of that Convocation; howſo<g ref="char:EOLhyphen"/>ever he ſhall not inſiſt any further upon this, then your Lord<g ref="char:EOLhyphen"/>ſhips pleaſe, but ſubmits both this, and the law, and Statute it ſelfe to your honourable arbitrement and pleaſures, how far it is to be regarded or ſuperſeded; and craves onely leave of your Lordſhips, that he may without offence expreſſe his ſenſe and minde in certain conſiderations upon the ſole condition where<g ref="char:EOLhyphen"/>on his liberty and livelihood at this preſent depends.</p>
+            <p n="1">1. Firſt, he findes this Covenant (for many intrinſecall in<g ref="char:EOLhyphen"/>ordinations in the ſame, which by divers learned men have been worthily and weightily preſſed, and may further be amplified and noted, as your Petitioner is ready to declare, whenſoever by your Honours he ſhall be thereunto required) ſo oppoſite to his Religion, Faith, and all his duties to God and man, that daily he doth humbly beſeech Almighty God to ſtrengthen him with grace, that he may endure and embrace any extremity of torture, or death, rather then in any ſenſe of his own or others, take, or ſeeme to have taken that, which for ought he can any wayes informe himſelfe (and other meanes of information in this long and ſtrict durance he can have none) muſt needs run him into a deſperate hazzard of all the good he can hope for in this or any other world.</p>
+            <p n="2">2 Next, he deſires to preſent to your honourable conſidera<g ref="char:EOLhyphen"/>tions, that thoſe Recuſants in this Kingdom, who profeſſe them<g ref="char:EOLhyphen"/>ſelves of the Communion of the Church of <hi>Rome,</hi> are very ſel<g ref="char:EOLhyphen"/>dome (if at all) preſſed or urged by any Houſe or Committee
+<pb n="3" facs="tcp:160315:3"/> (to their great commendation be it ever mentioned) to that Covenant; upon ſuppoſition, that they are ſo farre honeſt and true to their owne ſoules and conſciences, that they will never ſweare that which is inconſiſtible with their Faith. May it then pleaſe your Lordſhips to conſider, that the Church of <hi>England,</hi> as it ſtood eſtabliſhed by divine and humane Lawes, and ſtill ſtands (to all thoſe men upon whoſe conſciences <hi>Lawes</hi> have any obligation) wherein your humble Petitioner was made a Mem<g ref="char:EOLhyphen"/>ber of Chriſt, &amp; hath received ſuch ſenſible impreſſions of Gods grace, as obliges him to perſeverance therin againſt all the temp<g ref="char:EOLhyphen"/>tations of the World, the Fleſh, or the Devill. May it pleaſe your Honors to conſider, &amp; aſſuredly to beleve, that this our Church of Chriſt may by Gods Grace breed &amp; nouriſh men every whit as honeſt and true to their ſoules and conſciences, and as con<g ref="char:EOLhyphen"/>ſtant to their Faith and Principles, as your Lordſhips conceive the Church of <hi>Rome</hi> doth, (where notwithſtanding Diſpenſati<g ref="char:EOLhyphen"/>ons and mentall Reſervations, we are ſure we may ſay without offence to any man, are more impetrable and allowable then with us;) And therefore may it pleaſe your Lordſhips to vouch<g ref="char:EOLhyphen"/>ſafe that Chriſtian men of this our Church (wherein your very Lordſhips have held and profeſſed Communion) may finde ſo much credit and countenance from your Honours, as thoſe of the Church of <hi>Rome</hi> daily doe; and may be thought poſſibly ſo farre true and faſt to their Principles and Faith, that they can<g ref="char:EOLhyphen"/>not admit their ſoules into a Sacrament and Covenant, wholly deſtructive to their Religion, and indeed more individually and immediately penned, meant, and intended by the Authors of it againſt their Church, Doctrine and Government, then againſt the Church of <hi>Rome;</hi> there being no mention therein of any ſingular thing proper to the Church of <hi>Rome,</hi> but either com<g ref="char:EOLhyphen"/>mon to us with them, or proper to us alone.</p>
+            <p n="3">3. May it likewiſe pleaſe your Honours to conſider, that all our late Parliaments in <hi>England</hi> (and, moſt of all, this wherein your <hi>Honours</hi> are now ſitting) have profeſſed alwayes great ſe<g ref="char:EOLhyphen"/>verity, and made ſtrict inquiſition againſt all men that ſhould intend, practice, or endeavour by word, or writing, any alte<g ref="char:EOLhyphen"/>ration of Religion, or Innovation in Doctrine or Worſhip, as a capitall offence: (and indeed what phantaſie can be more de<g ref="char:EOLhyphen"/>rogatory
+<pb n="4" facs="tcp:160315:3"/> and contrary to all Chriſtian Religion, then that men ſhould be of any Religion that in theſe laſt days is to be ſet up?) wherefore when your Petitioner daily ſees and conſiders men that endeavour, profeſſe, Print, and practice Innovations and Alterations in the Church, Doctrine, Worſhip, and Govern<g ref="char:EOLhyphen"/>ment, in the very Creed, in the 39. Articles of our Confeſſion, in all the Eccleſiaſticall Canons, Muniments, Ceremonies, Sa<g ref="char:EOLhyphen"/>craments, and in the whole ſubſtance of Religion, the Publike Service of God, and Liturgy of the Church, ſealed in the blood of ſo many Martyrs, and ſetled by the ſanction of ſo many Par<g ref="char:EOLhyphen"/>liaments: And when he ſees ſuch men goe about every where, not onely with indemnity, and without queſtion, but alſo re<g ref="char:EOLhyphen"/>warded with Preferments, Immunities, Priviledges, for their Apoſtacie from that Faith which they have ſo often ſubſcribed, preached, practiſed, and whereunto before God, Angels, and men, they have plighted their troth: When he ſees againe men conſtant to their Religion, and to their Foundation, perſecuted and brought to nought (himſelfe eſpecially) not onely with to<g ref="char:EOLhyphen"/>tall and finall Sequeſtration, but alſo with a deſtinie of perpetu<g ref="char:EOLhyphen"/>all Impriſonment, without all neceſſaries, even to famine, unles he will for ſweare and renounce that his Religion (to which if he were not by his owne inclination, education, breeding (but chiefly by the feare of God) obliged, yet the ſevere proceedings of all Parliaments (this eſpecially) againſt the introducers of Innovations in Religion, were ſufficient to keep him, and awe him, or any man elſe to his Rule and Conformity: When hee ſees ſuch a time of Jubilee and Indulgence on the one ſide, and when hee beholds ſuch a time of hot perſecution on the other ſide: he cannot entertaine a more honourable opinion of your Lordſhips, then to conceive, that your Lordſhips in a zealous prudence (as <hi>Jehu</hi> once ſerved <hi>Baals</hi> Prophets) have a deſire to ſift and winnow this populous Kingdome, and by ſuch a ſee<g ref="char:EOLhyphen"/>ming diſtribution of rewards and puniſhments, do intend only to find out, and to root out all thoſe worſhippers of <hi>Baal,</hi> thoſe falſe, hypocriticall, adulterate pretenders to a Religion, who manifeſtly give ſentence upon themſelves, that either they have all this while formerly (notwithſtanding all their ſubſcriptions, Oathes and Profeſſions) lived, and gone in a wrong way, or elſe
+<pb n="5" facs="tcp:160315:4"/> that they will now ſwear themſelves into a wrong way for their advantage: Neither can your Petitioner any wayes beleeve, that it can poſſibly be your Lordſhips will, &amp; Honorable pleaſure, that either he or any conſtant Chriſtian (who cannot but abho<g ref="char:EOLhyphen"/>minate ſuch hypocriſie, falſe dealing, and Merchandiſe in Reli<g ref="char:EOLhyphen"/>gion) ſhould by perjury ſeem to be what he is not.</p>
+            <p n="4">4. Beſides, may it pleaſe your Lordſhips, to give your Peti<g ref="char:EOLhyphen"/>tioner leave to mention that too, which your Honours know and underſtand beſt of all; that there is a great deale of diffe<g ref="char:EOLhyphen"/>rence between Chriſtian and Pagan Allegeance: Pagan Allege<g ref="char:EOLhyphen"/>ance is a vertue actuated out of the habit of prudence and Mo<g ref="char:EOLhyphen"/>rall goodneſſe, acceptable to God, and moſt commonly rewar<g ref="char:EOLhyphen"/>ded with the temporall goods only, and benefits of this life, but cannot of it ſelfe alone preferre a man any higher.</p>
+            <p>Chriſtian Allegeance is a vertue incorporate in the other good workes of a Chriſtian Faith, wrought out of the ſupernaturall principles of Gods Grace and Word. A pagan may be loyall to his King, becauſe the rule of Prudence and Moral vertue pre<g ref="char:EOLhyphen"/>ſcribes him ſo to be. A Chriſtian muſt be loyall to his King a<g ref="char:EOLhyphen"/>bove all men, becauſe the Word of God (above all rules of Mo<g ref="char:EOLhyphen"/>ral prudence) commands him ſo to be: And ſo it comes to paſſe that Chriſtian Allegeance iſſuing from the ſupernaturall pow<g ref="char:EOLhyphen"/>ers of Gods Word, Spirit and Grace, is an act and work of Faith in Chriſt, and efficatious to preferre the Subject to a ſupernatu<g ref="char:EOLhyphen"/>rall happineſſe in life eternall. Now your Petitioner being obli<g ref="char:EOLhyphen"/>ged by Sacrament no leſſe then 14. ſeverall times to this Chri<g ref="char:EOLhyphen"/>ſtian Allegeance and profeſſion of his Kings Supremacie overall perſons in <hi>England</hi> whatſoever, or howſoever; and having like<g ref="char:EOLhyphen"/>wiſe as often declared upon Sacrament of Oath, that he doth not beleeve that any Diſpenſator in the world (no not the Pope him<g ref="char:EOLhyphen"/>ſelf, the greateſt pretender that way that he ever yet heard of) is able to free, or abſolve him from that obligation: Now this Co<g ref="char:EOLhyphen"/>venant quite diſſolving that Bond of Chriſtian Allegeance, and obliging him cleane contrary wayes, though he will not judge, much leſſe condemne other men; yet if he ſhould take it, all circumſtances conſidered, he could not but judge and condemn himſelf apoſtatiz'd from his Chriſtian Allegeance, which is a great part of that Chriſtian Faith, in which he hath hitherto lived, and wherin he deſires God to grant him ſtrength and grace to dye.</p>
+            <p n="5">
+               <pb n="6" facs="tcp:160315:4"/>5. Moreover, may it pleaſe your Lordſhips ſeriouſly to con<g ref="char:EOLhyphen"/>ſider, how deteſtable to all poſterity the memory of thoſe Gun<g ref="char:EOLhyphen"/>powder Traytors is, who took the Covenant to extirpate our Religion, root and branch, by taking away our King, Queene, Prince, Royall iſſue, Lords, Commons, Arch-Biſhops, Biſhops, Deanes, Deanes and Chapters<g ref="char:punc">▪</g> Arch-Deacons, all the reſt of our Eccleſiaſticall Hierarchy, and all perſons in whom our Religion was conſerved: There was nothing in the perſons deſtined to deſtruction, (neither Blood Nobility, nor any other Malignan<g ref="char:EOLhyphen"/>cie) offenſive to the Covenanters and Conſpirators, but the Doctrine, Worſhip, and Government of this Church; and that only of this Church, not that of <hi>Scotland, Geneva,</hi> or any to be ſet up, for thoſe were not in any being here at that time, but pro<g ref="char:EOLhyphen"/>hibited, and proſcribed by the ſame Lawes and penalties, wher<g ref="char:EOLhyphen"/>by that of the Church of <hi>Rome</hi> was eff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned; and our whole Na<g ref="char:EOLhyphen"/>tion by a ſolemn Decree hath devoted already to God Almigh<g ref="char:EOLhyphen"/>tie the perpetuation of the 5. of <hi>November,</hi> throughout all Ge<g ref="char:EOLhyphen"/>nerations, to an Anniverſary Thankſgiving for that his preſer<g ref="char:EOLhyphen"/>vation of this Doctrine, Worſhip and Government in theſe bleſ<g ref="char:EOLhyphen"/>ſed perſons, without whoſe conſervation, Poſterity had never come to ſee this light; and in this Thankſgiving all men of this Church for theſe 42 yeares have ingaged their ſoules to Al<g ref="char:EOLhyphen"/>mighty God, either cordially, or at leaſt hypocritically (your humble Petitioner for his part profeſſeth cordially) with what face or heart then can he poſſibly ſweare to the extirpation of that Religion, for the preſervation whereof before men &amp; An<g ref="char:EOLhyphen"/>gels, he hath ſo often given God hearty thankes?</p>
+            <p>Or with what devotion can he ever againe upon the 5. of <hi>No<g ref="char:EOLhyphen"/>vember</hi> enter into Gods Houſe, to give God thankes and praiſe for the preſervation of that Religion, which God ſees him en<g ref="char:EOLhyphen"/>tred into a Covenant to extirpate? Nay, your humble Petiti<g ref="char:EOLhyphen"/>oner appeales only to your Honourable Lordſhips, whether the blood of our fore-Fathers and Anceſtors, ſhed, and ready to be ſhed in Martyrdome, for the Profeſſion and maintenance of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faith, Worſhip, and Government (and not that of <hi>Scotland,</hi> or <hi>Geneva</hi>) would not cry to Heaven for vengeance againſt their Poſteritie, that ſhould now juſtifie their Perſecu<g ref="char:EOLhyphen"/>tors, and ſweare themſelves into the Office to extirpate all,
+<pb n="7" facs="tcp:160315:5"/> without any exception of King, or Parent, if addicted to that Religion, for which they ſo readily laid down their lives? And whether the blood of thoſe Gun-powder Conſpirators can bee ſilent againſt theſe men that enter into Covenant now adayes to extirpate that Religion, for the attempting whereof, the mouthes of the new Confederates even to this day give ſentence upon thoſe Gun-powder Covenanters, that they juſtly deſerved thoſe ſhamefull deaths and executions, which by legall judge<g ref="char:EOLhyphen"/>ments came upon them? Your Lordſhips Petitioner is there<g ref="char:EOLhyphen"/>fore confident, that in your Honourable and Noble Bloods there cannot be any deſire, that either he, or any true Chriſtian Eng<g ref="char:EOLhyphen"/>liſhman ſhould give the world an inſtance of ſuch degenerous unworthineſſe.</p>
+            <p n="6">6. Laſt of all, ſeeing that your Lordſhips humble Petitioner after the loſſe of all in this world, at your Honourable pleaſure hath paſſed the probation of 5. yeares in 6. Gaoles, by land and by water, with plunders, Sequeſtrations, neceſſities, want of all meanes and ſupport, ſave (that onely which at this bleſſed time we ſolemnly celebrate) the miſſion of God the Comforter into the hearts of faithfull Chriſtians; (the publike commemo<g ref="char:EOLhyphen"/>ration of that too by the conſequence of this Covenant (ſhould your Petitioner take it) he muſt ſweare for ever hereafter to a<g ref="char:EOLhyphen"/>bandon;) and ſeeing that all theſe Sufferings have not been of force to impugne that grace of God, by which only (and not by any ſtrength or ability of his own) he profeſſes himſelfe to out<g ref="char:EOLhyphen"/>ſtand.</p>
+            <p>
+               <hi>May it therefore pleaſe your Honours, that this 5. yeares pro<g ref="char:EOLhyphen"/>bation of extremities, may ſuffice to give your Lordſhips indu<g ref="char:EOLhyphen"/>bitable ſatisfaction, that your humble Petitioner cannot by any meanes of life, or death, bee moved to enter into this Cove<g ref="char:EOLhyphen"/>nant; and therefore that your Honors would be pleaſed to thinke of any other courſe for the expiation of your Lordſhips diſpleaſure upon him, rather then to order him to perpetual impriſonment, even to death, and that by want and Famine too, only for the preſervation of that Faith, in which he hath with unſpeakable comfort engaged his Soule to Almighty God.</hi>
+            </p>
+            <closer>And Your Petitioner ſhall pray, &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
